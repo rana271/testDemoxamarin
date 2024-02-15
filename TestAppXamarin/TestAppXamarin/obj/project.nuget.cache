@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "viS6nfG5sxjfOCJiRLp/oxir9pG09EvpZx/bDCPU9eH4GBZR2dx1d/kXSoiydLSirwrH7wnc8OtdJnRpmcIKrg==",
+  "success": true,
+  "projectFilePath": "C:\\WiproTest\\TestAppXamarin\\TestAppXamarin\\TestAppXamarin\\TestAppXamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ranac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ranac\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ranac\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ranac\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
